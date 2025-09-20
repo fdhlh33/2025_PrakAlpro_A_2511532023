@@ -10,7 +10,7 @@ public class TugasAlproPekan2 {
 		boolean statusMenang = true;
 		
 		// Output data ke layar
-		System.out.println("=== Data Pemain Game ===");
+		System.out.println("=== Data Pemain ===");
 		System.out.println("Level Pemain  : " + level);
 		System.out.println("Skor Pemain   : " + skor);
 		System.out.println("Rank Pemain   : " + rank);
@@ -20,3 +20,4 @@ public class TugasAlproPekan2 {
 	}
 
 }
+
